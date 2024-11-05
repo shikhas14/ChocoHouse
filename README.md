@@ -14,8 +14,7 @@ Python 3.x
 SQLite
 
 
-**Script Overview
-**
+**Script Overview**
 
 There are three main tables in the script: 
 the seasonal flavors table, the s_f, which helps manage information about various chocolate 
