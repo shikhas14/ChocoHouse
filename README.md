@@ -5,7 +5,7 @@ SQLite DB for a chocolate house containing seasonal flavors, the count of ingred
 and what say the customers. It supports all sorts of table creation and putting new 
 records into an empty table and viewing any and all existing data.
 
-**Requirements:**
+**Requirements**
 
 Open source Eg: Google Collab
 
