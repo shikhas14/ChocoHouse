@@ -6,6 +6,7 @@ and what say the customers. It supports all sorts of table creation and putting 
 records into an empty table and viewing any and all existing data.
 
 Requirements
+Open source Eg: Google Collab
 Python 3.x
 SQLite
 
