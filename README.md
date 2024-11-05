@@ -1,18 +1,18 @@
-The Chocolate House Database Management System
+**The Chocolate House Database Management System**
 
 This is an even simpler Python script: managements of a
 SQLite DB for a chocolate house containing seasonal flavors, the count of ingredients, 
 and what say the customers. It supports all sorts of table creation and putting new 
 records into an empty table and viewing any and all existing data.
 
-Requirements
+**Requirements:**
 Open source Eg: Google Collab
 Python 3.x
 SQLite
 
 
-Script Overview
-
+**Script Overview
+**
 There are three main tables in the script: 
 the seasonal flavors table, the s_f, which helps manage information about various chocolate 
 flavor descriptions and the season(s) they are associated with.
@@ -21,7 +21,7 @@ making process, including name and quantity in stock along with units.
 Collects the feedback of customers on flavor preferences and possible allergies 
 Customer Feedback (c_f).
 
-Functions
+**Functions**
 
 1. create_tables()
 creates the needed tables, s_f, i_invent, c_f, if they have not been created before in SQLite.
@@ -37,7 +37,7 @@ print the content in the table
 end.
 
 
-Notes
+**Notes**
 The script creates an SQLite database named chocolate_house.db in the current working directory. 
 If it already exists, it reuses it.
 The script can be extended further by adding more functionality, such as updating or deleting 
